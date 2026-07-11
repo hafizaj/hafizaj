@@ -1,6 +1,6 @@
 <div align="center">
 
-# Ahmad Hafizuddin (Hafiz) Jaafar
+# Hafizuddin Jaafar
 
 Customer Success Architect at Microsoft · MSc Business Analytics, Imperial College London
 
