@@ -2,7 +2,7 @@
 
 # Hafizuddin Jaafar
 
-Inciming Customer Success Architect at Microsoft . MSc Business Analytics, Imperial College London
+Incoming Customer Success Architect at Microsoft . MSc Business Analytics, Imperial College London
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/hafizjaafar)
 [![Email](https://img.shields.io/badge/Email-hafizuddinbinjaafar@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:hafizuddinbinjaafar@gmail.com)
